@@ -172,14 +172,16 @@ if st.session_state.form_submitted:
         file_name="report.txt",
         icon=":material/download:",
         )
+    
+    st.markdown("""
+    ---
+    ## 🔗 Connect with Me
 
- st.markdown("""
----
-## 🔗 Connect with Me
+    Made with ❤️ by **Mohamed Farman Raza**  
+    [LinkedIn](https://www.linkedin.com/in/mohamed-farman-raza-baaab5329)
+    """)
 
-Made with ❤️ by **Mohamed Farman Raza**  
-[LinkedIn](https://www.linkedin.com/in/mohamed-farman-raza-baaab5329)
-""")
+
 
     
 
