@@ -42,6 +42,8 @@ Make sure you have Python and Git installed.
 
 ### 1️⃣ **Clone the Repository**
 
+🔗: "https://github.com/MohammedxFarman/AI-RESUME-ANALYZER"
+
 
 ### 2️⃣ Set Up a Virtual Environment
 ```
