@@ -173,16 +173,17 @@ if st.session_state.form_submitted:
         icon=":material/download:",
         )
     
-    st.markdown("""
-    ---
-    ## 🔗 Connect with Me
-
-    Made with ❤️ by **Mohamed Farman Raza**  
-    [LinkedIn](https://www.linkedin.com/in/mohamed-farman-raza-baaab5329)
-    """)
-
-
+    
 
     
 
 # <-------------- End of the Work Flow --------------->
+
+st.markdown("""
+<hr>
+<div style='text-align: center'>
+    Made with ❤️ by <b>Mohamed Farman Raza</b><br>
+    <a href='https://www.linkedin.com/in/mohamed-farman-raza-baaab5329' target='_blank'>LinkedIn</a>
+</div>
+""", unsafe_allow_html=True)
+
